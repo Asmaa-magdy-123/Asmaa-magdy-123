@@ -61,11 +61,13 @@ I'm a **fast learner**, always improving my skills and focusing on delivering gr
 - Authentication & validation using Yup  
 - Dynamic product pages + user profile  
 - Responsive UI + animations  
-
-### 🏢 EquipmentCorner  
-- React + Tailwind  
-- Admin dashboard + dynamic content  
-- Contact forms & validation  
+  
+- ### 🏢 EquipmentCorner (Redesign & Improvement)  
+- Built a redesigned version of a real-world website using **React + Tailwind**  
+- Improved UI/UX with a more modern and responsive design  
+- Developed an admin dashboard for managing dynamic content  
+- Implemented contact forms with validation  
+- Enhanced performance and code structure for better maintainability 
 
 ### 🛍️ Leo Teapoz  
 - E-commerce using HTML, CSS, JS  
