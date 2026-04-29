@@ -80,15 +80,13 @@ I'm a **fast learner**, always improving my skills and focusing on delivering gr
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asmaa-magdy-123&show_icons=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asmaa-magdy-123&layout=compact)
 
 ---
+ 
 
-## 🔥 Fun Touch  
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Specialist;Building+Modern+UIs;Always+Learning...)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;Building+Modern+UIs;Always+Learning...)
 
 ---
 
