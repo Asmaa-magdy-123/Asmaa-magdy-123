@@ -88,7 +88,9 @@ I'm a **fast learner**, always improving my skills and focusing on delivering gr
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;Building+Modern+UIs;Always+Learning...)
 
----
+## My Portfolio 
+-- https://portfolio-so-eight.vercel.app
+
 
 ## 📫 Connect With Me  
 - LinkedIn: https://www.linkedin.com/in/asmaa--magdy/  
