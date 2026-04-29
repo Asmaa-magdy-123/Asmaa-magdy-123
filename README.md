@@ -1,6 +1,6 @@
 # Hi 👋, I'm Asmaa Magdy  
 
-### 💻 Frontend Developer | React Specialist  
+### 💻 Frontend Developer 
 
 ---
 
