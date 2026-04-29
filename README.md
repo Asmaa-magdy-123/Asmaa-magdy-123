@@ -1,0 +1,100 @@
+# Hi 👋, I'm Asmaa Magdy  
+
+### 💻 Frontend Developer | React Specialist  
+
+---
+
+## 🚀 About Me  
+I'm a passionate **Frontend Developer** with over **3 years of experience** in learning and building real-world projects.  
+
+I specialize in creating **responsive, high-performance, and user-friendly interfaces** using modern technologies.  
+I enjoy working closely with backend teams to integrate **RESTful APIs** and deliver complete, scalable solutions.  
+
+I'm a **fast learner**, always improving my skills and focusing on delivering great **user experience (UX)** and optimized performance.  
+
+---
+
+## 🛠️ Tech Stack  
+
+### 🎨 Frontend  
+- HTML5, CSS3  
+- JavaScript (ES6+), TypeScript  
+- React.js  
+- React Router  
+- TanStack Query  
+- Formik + Yup  
+- Bootstrap, Tailwind CSS  
+
+### ⚙️ Backend & Tools  
+- Firebase  
+ 
+### 🧠 Familiar With  
+- Node.js (building simple REST APIs) 
+- PHP  
+- WordPress  
+- Angular  
+- SQL  
+- Figma
+- Flutter
+
+---
+
+## 💼 Experience  
+
+### 🏢 Frontend Developer @ Smartly-Coded (Remote)  
+- Working on real-world systems and scalable applications  
+
+### 🧑‍💻 Frontend Developer – StockSquares Project  
+- Built full UI for a large-scale system using **React + Tailwind + Vite**  
+- Developed multiple dashboards (CRM for admin, trainer, employee, partner)  
+- Created booking, consultation, authentication, and training systems  
+- Integrated REST APIs with backend team  
+- Improved performance using **React Suspense** and **lazy loading (code splitting)**  
+- Optimized images with lazy loading to reduce initial load time  
+- Structured the project for **scalability and maintainability** (modular architecture)  
+- Focused on **performance, UX, and responsiveness**  
+
+## 🚀 Projects  
+
+### 🛒 Sportique (E-commerce)  
+- React + Stripe integration  
+- Authentication & validation using Yup  
+- Dynamic product pages + user profile  
+- Responsive UI + animations  
+
+### 🏢 EquipmentCorner  
+- React + Tailwind  
+- Admin dashboard + dynamic content  
+- Contact forms & validation  
+
+### 🛍️ Leo Teapoz  
+- E-commerce using HTML, CSS, JS  
+- Cart, wishlist, and product details  
+- LocalStorage + Fetch API  
+
+### 🎯 Advertisement Website  
+- React + Bootstrap + Framer Motion  
+- Heavy animations and interactive UI  
+
+---
+
+## 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asmaa-magdy-123&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asmaa-magdy-123&layout=compact)
+
+---
+
+## 🔥 Fun Touch  
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;React+Specialist;Building+Modern+UIs;Always+Learning...)
+
+---
+
+## 📫 Connect With Me  
+- LinkedIn: https://www.linkedin.com/in/asmaa--magdy/  
+- GitHub: https://github.com/Asmaa-magdy-123  
+- Email: asmaamag72@gmail.com  
+
+---
