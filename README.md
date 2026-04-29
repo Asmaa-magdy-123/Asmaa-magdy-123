@@ -2,12 +2,13 @@
 ### 💻 Frontend Developer 
 ---
 ## 🚀 About Me  
-I'm a passionate **Frontend Developer** with over **3 years of experience** in learning and building real-world projects.  
-I specialize in creating **responsive, high-performance, and user-friendly interfaces** using modern technologies.  
-I enjoy working closely with backend teams to integrate **RESTful APIs** and deliver complete, scalable solutions.  
-I'm a **fast learner**, always improving my skills and focusing on delivering great **user experience (UX)** and optimized performance.  
+I'm a passionate Frontend Developer with over 3 years of experience in learning and building real-world projects.  
+I specialize in creating responsive, high-performance, and user-friendly interfaces using modern technologies.  
+I enjoy working closely with backend teams to integrate RESTful APIs and deliver complete, scalable solutions.  
+I'm a fast learner, always improving my skills and focusing on delivering great user experience (UX) and optimized performance.  
 ---
 ## 🛠️ Tech Stack  
+
 ### 🎨 Frontend  
 - HTML5, CSS3  
 - JavaScript (ES6+), TypeScript  
