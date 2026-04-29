@@ -1,4 +1,4 @@
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+...😊;I'm+asmaa+magdy;&speed=50) 
+# ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+...😊;I'm+asmaa+magdy;&speed=25) 
 ### 💻 Frontend Developer 
 ---
 ## 🚀 About Me  
